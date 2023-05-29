@@ -1,1 +1,1 @@
-[DEMO LINK](https://hrynkevych.github.io/materialui-react-testapp/)
+[DEMO LINK](https://hrynkevych.github.io/lofthouse/)
